@@ -1,0 +1,1 @@
+== Following ember.js tutorial DevMynd's blog http://www.devmynd.com/blog/2013-3-rails-ember-js 
